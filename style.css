@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(192, 186, 186);
+}
+header{
+    width: 400px;
+    background-color: yellow;
+    height: 70px;
+    margin: auto;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+ .menu img{
+    width: 150px;
+    height: 70px;
+ }
+ .menu nav{
+    display: inline;
+ }
+ .menu nav ul li{
+    display: inline;
+    font-size: 10px;
+ }
